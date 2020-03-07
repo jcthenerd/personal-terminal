@@ -1,0 +1,2 @@
+headers.osx = /usr/local/Cellar/ncurses/6.2/include/ncurses.h
+linkerOpts.osx = -lncurses

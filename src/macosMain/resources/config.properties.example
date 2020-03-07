@@ -1,0 +1,4 @@
+git.repos="/dir/repos"
+weather.cit="test,usa"
+weather.units="imperial"
+weather.appid="appid"
